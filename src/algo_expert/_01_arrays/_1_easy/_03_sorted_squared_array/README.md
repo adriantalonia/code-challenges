@@ -1,5 +1,8 @@
 # Sorted Squared Array
 
+Array challenge from the [AlgoExpert arrays index](../../README.md). This README includes the Java implementation and
+walks through a straightforward square-and-sort solution.
+
 <!-- TOC -->
 
 * [Sorted Squared Array](#sorted-squared-array)
@@ -92,4 +95,3 @@ class Program {
 - **Time Complexity**: **O(n log n)** due to the sorting step. Squaring each element takes **O(n)**.
 - **Space Complexity**: **O(1)** if sorting is done in place; otherwise, **O(n)** if a new array is created during
   sorting.
-

@@ -1,5 +1,8 @@
 # Validate Subsequence
 
+Array challenge from the [AlgoExpert arrays index](../../README.md). The Java implementation is available in
+[ValidateSubsequence.java](ValidateSubsequence.java).
+
 <!-- TOC -->
 
 * [Validate Subsequence](#validate-subsequence)

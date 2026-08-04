@@ -1,5 +1,8 @@
 # Two Number Sum
 
+Array challenge from the [AlgoExpert arrays index](../../README.md). The Java implementation is available in
+[TwoNumberSumSolution.java](TwoNumberSumSolution.java).
+
 <!-- TOC -->
 * [Two Number Sum](#two-number-sum)
   * [Difficulty: 🟢 Easy](#difficulty--easy)
