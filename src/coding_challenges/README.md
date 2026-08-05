@@ -5,8 +5,9 @@ a time and for exploring edge-case behavior in Java.
 
 ## Topics
 
-| Topic | Difficulty | Challenges |
-| --- | --- | --- |
-| [Strings](strings/README.md) | Easy | [Contains Character](strings/easy/_01_contains_character/README.md), [Starts With Prefix](strings/easy/_02_starts_with_prefix/README.md) |
+| Topic                        | Difficulty | Challenges                                                                                                                                                                                                                       |
+|------------------------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Arrays](arrays/README.md)   | Easy       | [Flatten One Level](arrays/easy/_01_flatten_one_level/README.md)                                                                                                                                                                 |
+| [Strings](strings/README.md) | Easy       | [Contains Character](strings/easy/_01_contains_character/README.md), [Starts With Prefix](strings/easy/_02_starts_with_prefix/README.md), [Remove Leading and Trailing Whitespace](strings/easy/_03_remove_whitespace/README.md) |
 
 [Back to the project overview](../../README.md)
