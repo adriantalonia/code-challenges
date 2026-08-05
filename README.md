@@ -8,7 +8,7 @@ challenge includes its implementation and a short explanation of the approach, c
 | Track                                                | Focus                                             | Challenges |
 |------------------------------------------------------|---------------------------------------------------|------------|
 | [AlgoExpert](src/algo_expert/README.md)              | Algorithmic patterns, beginning with arrays       | 3          |
-| [Coding Challenges](src/coding_challenges/README.md) | Small exercises organized by topic and difficulty | 4          |
+| [Coding Challenges](src/coding_challenges/README.md) | Small exercises organized by topic and difficulty | 7          |
 
 ## How to use this repository
 
@@ -27,7 +27,7 @@ challenge includes its implementation and a short explanation of the approach, c
 ## Current coverage
 
 - AlgoExpert arrays: two-number lookup, subsequence validation, and sorted squared arrays.
-- Coding Challenge arrays: one-level list flattening.
+- Coding Challenge arrays: one-level list flattening, inclusive range counting, counting values above average, and consecutive duplicate grouping.
 - Coding Challenge strings: character lookup, prefix matching, and whitespace trimming.
 
 The collection is intentionally incremental; new challenges can be added under the appropriate track and linked from the

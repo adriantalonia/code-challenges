@@ -8,7 +8,6 @@ public class TwoNumberSumSolution {
     public static int[] twoNumberSum(int[] array, int targetSum) {
         // Step 1: Create a HashSet to store the numbers we have seen so far
         Set<Integer> nums = new HashSet<Integer>();
-
         // Step 2: Iterate through the array
         for (int num : array) {
             // Calculate the complement needed to reach the targetSum
