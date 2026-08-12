@@ -29,7 +29,7 @@ challenge includes its implementation and a short explanation of the approach, c
 - AlgoExpert arrays: two-number lookup, subsequence validation, and sorted squared arrays.
 - Coding Challenge arrays: one-level list flattening, inclusive range counting, counting values above average, and
   consecutive duplicate grouping.
-- Coding Challenge strings: character lookup, prefix matching, and whitespace trimming.
+- Coding Challenge strings: character lookup, prefix matching, whitespace trimming, and palindrome checking.
 - Coding Challenge functions: prime-number checking and iterative factorial calculation.
 
 The collection is intentionally incremental; new challenges can be added under the appropriate track and linked from the
